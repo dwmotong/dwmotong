@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Xinwen Ding 👋
 
-<!--
-**dwmotong/dwmotong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a People Customer Success Manager focused on the intersection of **HR, AI, data, and automation**.
 
-Here are some ideas to get you started:
+- 🔭 Exploring AI Agents and natural-language workflows for HR
+- 🧩 Building practical solutions with People CLI, APIs, connectors, and low-code tools
+- 📊 Interested in workforce analytics, recruiting insights, organizational data, and HR operations
+- 🌱 Turning real customer needs into reusable Skills, workflows, and best practices
+- 🤝 Connecting customer success, product feedback, and solution innovation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I believe the best HR technology should be secure, practical, and easy for people to use.
+
+> Turning HR challenges into scalable AI-powered solutions.
